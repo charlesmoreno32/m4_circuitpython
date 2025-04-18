@@ -1,0 +1,3 @@
+TRANSLATE("Too many displays")
+TRANSLATE("Too many display busses; forgot displayio.release_displays() ?")
+TRANSLATE("%q must be of type %q or %q, not %q")

@@ -1,0 +1,2 @@
+TRANSLATE("file must be a file opened in byte mode")
+MP_REGISTER_MODULE(MP_QSTR_synthio, synthio_module);

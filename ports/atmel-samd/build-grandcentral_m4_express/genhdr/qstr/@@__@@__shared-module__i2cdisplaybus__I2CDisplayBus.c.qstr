@@ -1,0 +1,5 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("Unable to find I2C Display at %x")

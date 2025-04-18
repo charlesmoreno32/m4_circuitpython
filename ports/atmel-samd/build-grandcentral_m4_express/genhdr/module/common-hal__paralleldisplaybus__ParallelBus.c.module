@@ -1,0 +1,2 @@
+TRANSLATE("Data 0 pin must be byte aligned")
+TRANSLATE("Bus pin %d is already in use")

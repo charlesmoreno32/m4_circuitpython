@@ -1,0 +1,7 @@
+TRANSLATE("%q")
+TRANSLATE("%q and %q must share a clock unit")
+TRANSLATE("Serializer in use")
+TRANSLATE("No free GCLKs")
+TRANSLATE("Too many channels in sample")
+TRANSLATE("No DMA channel found")
+TRANSLATE("Unable to allocate buffers for signed conversion")

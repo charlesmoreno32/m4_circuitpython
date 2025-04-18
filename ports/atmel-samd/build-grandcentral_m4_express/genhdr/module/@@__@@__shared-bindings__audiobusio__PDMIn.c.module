@@ -1,0 +1,6 @@
+TRANSLATE("%q must be multiple of 8.")
+TRANSLATE("%q must be multiple of 8.")
+TRANSLATE("Cannot record to a file")
+TRANSLATE("Destination capacity is smaller than destination_length.")
+TRANSLATE("destination buffer must be an array of type 'H' for bit_depth = 16")
+TRANSLATE("destination buffer must be a bytearray or array of type 'B' for bit_depth = 8")

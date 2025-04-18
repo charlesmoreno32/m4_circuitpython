@@ -1,0 +1,7 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+Q(protocol_audiosample)
+TRANSLATE("All sync event channels in use")
+TRANSLATE("Internal audio buffer too small")

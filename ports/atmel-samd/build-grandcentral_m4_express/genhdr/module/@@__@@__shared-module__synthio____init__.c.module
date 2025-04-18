@@ -1,0 +1,2 @@
+TRANSLATE("%q must be array of type 'h'")
+TRANSLATE("%q must be of type %q, not %q")

@@ -1,0 +1,2 @@
+TRANSLATE("%q must be a bytearray or array of type 'h', 'H', 'b', or 'B'")
+TRANSLATE("Length of %q must be an even multiple of channel_count * type_size")

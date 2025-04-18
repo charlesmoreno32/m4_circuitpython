@@ -1,0 +1,8 @@
+TRANSLATE("Display rotation must be in 90 degree increments")
+TRANSLATE("%q must be 1 when %q is True")
+TRANSLATE(".show(x) removed. Use .root_group = x")
+TRANSLATE("Brightness not adjustable")
+TRANSLATE("%q must be %d-%d")
+TRANSLATE("Brightness not adjustable")
+TRANSLATE("Display must have a 16 bit colorspace.")
+TRANSLATE("Buffer too small")

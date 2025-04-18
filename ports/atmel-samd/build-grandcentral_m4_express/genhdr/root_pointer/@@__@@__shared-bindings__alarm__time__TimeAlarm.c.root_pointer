@@ -1,0 +1,3 @@
+TRANSLATE("RTC is not supported on this board")
+TRANSLATE("Supply one of monotonic_time or epoch_time")
+TRANSLATE("Time is in the past.")

@@ -1,0 +1,5 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("This microcontroller only supports data0=, not data_pins=, because it requires contiguous pins.")

@@ -1,0 +1,3 @@
+TRANSLATE("Must be a %q subclass.")
+TRANSLATE("object not in sequence")
+TRANSLATE("Slices not supported")

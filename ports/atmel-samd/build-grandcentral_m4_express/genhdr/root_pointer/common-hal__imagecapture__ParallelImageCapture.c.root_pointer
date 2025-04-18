@@ -1,0 +1,2 @@
+TRANSLATE("Invalid data_pins[%d]")
+TRANSLATE("data pin #%d in use")

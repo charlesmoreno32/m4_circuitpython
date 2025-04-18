@@ -1,0 +1,3 @@
+TRANSLATE("Buffer too short by %d bytes")
+TRANSLATE("No connection: length cannot be determined")
+TRANSLATE("No connection: length cannot be determined")

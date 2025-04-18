@@ -1,0 +1,8 @@
+TRANSLATE("Could not set address")
+TRANSLATE("interval must be in range %s-%s")
+TRANSLATE("Cannot have scan responses for extended, connectable advertisements.")
+TRANSLATE("Only connectable advertisements can be directed")
+TRANSLATE("interval must be in range %s-%s")
+TRANSLATE("non-zero timeout must be >= interval")
+TRANSLATE("window must be <= interval")
+TRANSLATE("Prefix buffer must be on the heap")

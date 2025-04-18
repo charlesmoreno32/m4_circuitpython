@@ -1,0 +1,4 @@
+TRANSLATE("Only 8 or 16 bit mono with %dx oversampling supported.")
+TRANSLATE("Serializer in use")
+TRANSLATE("sampling rate out of range")
+TRANSLATE("No free GCLKs")

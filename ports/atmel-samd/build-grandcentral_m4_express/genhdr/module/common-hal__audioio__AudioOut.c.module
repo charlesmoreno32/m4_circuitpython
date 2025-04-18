@@ -1,0 +1,5 @@
+TRANSLATE("DAC already in use")
+TRANSLATE("All timers in use")
+TRANSLATE("All event channels in use")
+TRANSLATE("No DMA channel found")
+TRANSLATE("Unable to allocate buffers for signed conversion")

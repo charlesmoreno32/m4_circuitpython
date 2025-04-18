@@ -1,0 +1,4 @@
+TRANSLATE("RS485")
+TRANSLATE("%q must be power of 2")
+TRANSLATE("No %q pin")
+TRANSLATE("No %q pin")

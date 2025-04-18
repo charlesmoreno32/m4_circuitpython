@@ -1,0 +1,4 @@
+TRANSLATE("Read-only")
+TRANSLATE("Layer already in a group")
+TRANSLATE("Layer already in a group")
+TRANSLATE("Layer must be a Group or TileGrid subclass")

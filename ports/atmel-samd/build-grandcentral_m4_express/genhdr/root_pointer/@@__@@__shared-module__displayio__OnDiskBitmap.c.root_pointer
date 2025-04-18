@@ -1,0 +1,3 @@
+TRANSLATE("Only Windows format, uncompressed BMP supported: given header size is %d")
+TRANSLATE("RLE-compressed BMP not supported")
+TRANSLATE("Unable to read color palette data")

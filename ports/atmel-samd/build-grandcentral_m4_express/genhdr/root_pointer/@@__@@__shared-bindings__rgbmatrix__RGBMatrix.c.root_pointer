@@ -1,0 +1,7 @@
+TRANSLATE("The length of rgb_pins must be 6, 12, 18, 24, or 30")
+TRANSLATE("rgb_pins[%d] is not on the same port as clock")
+TRANSLATE("rgb_pins[%d] duplicates another pin assignment")
+TRANSLATE("Pinout uses %d bytes per element, which consumes more than the ideal %d bytes.  If this cannot be avoided, pass allow_inefficient=True to the constructor")
+TRANSLATE("Must use a multiple of 6 rgb pins, not %d")
+TRANSLATE("%d address pins, %d rgb pins and %d tiles indicate a height of %d, not %d")
+TRANSLATE("%q must be %d-%d")

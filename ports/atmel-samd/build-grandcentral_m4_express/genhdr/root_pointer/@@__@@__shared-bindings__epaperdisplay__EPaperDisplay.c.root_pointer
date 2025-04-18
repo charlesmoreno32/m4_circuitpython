@@ -1,0 +1,4 @@
+TRANSLATE("Display rotation must be in 90 degree increments")
+TRANSLATE("Invalid %q")
+TRANSLATE(".show(x) removed. Use .root_group = x")
+TRANSLATE("Refresh too soon")

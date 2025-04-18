@@ -1,0 +1,2 @@
+TRANSLATE("pop from empty %q")
+TRANSLATE("Failed sending command.")

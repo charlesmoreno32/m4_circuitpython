@@ -1,0 +1,6 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("small int overflow")
+TRANSLATE("object not in sequence")

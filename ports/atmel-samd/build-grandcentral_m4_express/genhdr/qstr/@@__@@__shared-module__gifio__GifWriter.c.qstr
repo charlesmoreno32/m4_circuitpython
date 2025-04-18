@@ -1,0 +1,6 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("file must be a file opened in byte mode")
+TRANSLATE("unsupported colorspace for GifWriter")

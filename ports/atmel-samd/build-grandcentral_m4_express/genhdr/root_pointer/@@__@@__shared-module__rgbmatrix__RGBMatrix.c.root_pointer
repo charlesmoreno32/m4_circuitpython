@@ -1,0 +1,3 @@
+TRANSLATE("No timer available")
+TRANSLATE("Failed to allocate %q buffer")
+TRANSLATE("Internal error #%d")

@@ -1,0 +1,3 @@
+TRANSLATE("unsupported %q type")
+TRANSLATE("Slices not supported")
+TRANSLATE("Tile index out of bounds")

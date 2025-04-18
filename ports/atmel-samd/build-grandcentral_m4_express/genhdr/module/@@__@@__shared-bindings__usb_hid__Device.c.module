@@ -1,0 +1,2 @@
+TRANSLATE("%q, %q, and %q must all be the same length")
+TRANSLATE("%q length must be %d")

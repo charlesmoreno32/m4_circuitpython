@@ -1,0 +1,7 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("max_length must be 0-%d when fixed_length is %s")
+TRANSLATE("Value length != required fixed length")
+TRANSLATE("Value length > max_length")

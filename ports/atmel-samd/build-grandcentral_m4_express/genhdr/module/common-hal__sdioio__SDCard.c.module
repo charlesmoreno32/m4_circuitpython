@@ -1,0 +1,2 @@
+TRANSLATE("%q failure: %d")
+TRANSLATE("Buffer must be a multiple of %d bytes")

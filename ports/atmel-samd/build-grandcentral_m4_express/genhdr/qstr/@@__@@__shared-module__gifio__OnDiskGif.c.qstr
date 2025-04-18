@@ -1,0 +1,7 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+Q(width)
+TRANSLATE("%q must be <= %d")
+Q(file)

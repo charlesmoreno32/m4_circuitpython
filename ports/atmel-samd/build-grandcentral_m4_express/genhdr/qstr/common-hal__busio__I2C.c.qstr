@@ -1,0 +1,6 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("No pull up found on SDA or SCL; check your wiring")
+Q(frequency)

@@ -1,0 +1,5 @@
+TRANSLATE("Internal resource(s) in use")
+TRANSLATE("All timers in use")
+TRANSLATE("pop from empty %q")
+TRANSLATE("Input taking too long")
+TRANSLATE("%q out of range")

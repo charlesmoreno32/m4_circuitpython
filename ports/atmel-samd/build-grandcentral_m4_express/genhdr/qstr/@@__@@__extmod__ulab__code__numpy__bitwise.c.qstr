@@ -1,0 +1,6 @@
+Q(help)
+Q(input)
+Q(open)
+Q(function)
+TRANSLATE("not supported for input types")
+TRANSLATE("operands could not be broadcast together")
