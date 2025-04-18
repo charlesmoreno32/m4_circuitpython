@@ -35,3 +35,19 @@
 // USB is always used internally so skip the pin objects for it.
 #define IGNORE_PIN_PA24     1
 #define IGNORE_PIN_PA25     1
+
+// Enable debugging support
+#define MICROPY_DEBUG_VERBOSE 1        // Enable verbose debugging (optional, useful for more output)
+#define MICROPY_ENABLE_DEBUGGING 1     // Enable debugging features (GDB, OpenOCD)
+
+// Enable debugging interface for JTAG/SWD
+#define BOARD_HAS_JTAG 1              // Enable JTAG debugging interface (this may be handled automatically for SWD, but you can explicitly define this)
+
+// SAMD51 DMA Configuration
+#define NUM_DMA_CHANNELS 16
+#define DMAC_DESCRIPTOR_SECTION __attribute__((section(".ram4")))
+
+// Enable OpenOCD support for GDB and J-Link
+#define CIRCUITPY_ENABLE_GDB 1         // Enable GDB support for debugging
+// #define CIRCUITPY_ENABLE_OPENOCD 1     // Enable OpenOCD support for J-Link debugging
+

@@ -33,7 +33,7 @@
 #include "py/mpstate.h"
 
 #if MICROPY_DEBUG_VERBOSE // print debugging info
-#define DEBUG_printf DEBUG_printf
+#define DEBUG_printf(format, ...) mp_printf(&mp_plat_print, format, ##__VA_ARGS__)
 #else // don't print debugging info
 #define DEBUG_printf(...) (void)0
 #endif

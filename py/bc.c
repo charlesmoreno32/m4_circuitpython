@@ -32,9 +32,11 @@
 #include "py/bc0.h"
 #include "py/bc.h"
 #include "py/objfun.h"
+#include "py/misc.h"
 
 #if MICROPY_DEBUG_VERBOSE // print debugging info
 #define DEBUG_PRINT (1)
+#define DEBUG_printf(format, ...) mp_printf(&mp_plat_print, format, ##__VA_ARGS__)
 #else // don't print debugging info
 #define DEBUG_PRINT (0)
 #define DEBUG_printf(...) (void)0
